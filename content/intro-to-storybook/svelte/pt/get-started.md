@@ -46,3 +46,31 @@ Nossas três modalidades de aplicativo frontend: testes automatizados (Jest), de
 ![3 modalities](/intro-to-storybook/app-three-modalities-svelte.png)
 
 Dependendo de qual parte do aplicativo você estiver trabalhando, você pode querer rodar um ou mais desses comandos simultaneamente. Como nosso foco atual é criar um único componente de interface de usuário, rodaremos somente o Storybook por enquanto.
+
+## Efetuando commit nas mudanças
+
+Agora é seguro adicionar nossos arquivos a um repositório local. Rode os seguintes comandos para inicializar um repositório local, adicionar e efetuar commit nas mudanças que realizamos até o momento.
+
+```shell
+$ git init
+```
+
+Seguido de:
+
+```shell
+$ git add .
+```
+
+Depois:
+
+```shell
+$ git commit -m "first commit"
+```
+
+E por fim:
+
+```shell
+$ git branch -M main
+```
+
+Vamos começar a construir nosso primeiro componente!
