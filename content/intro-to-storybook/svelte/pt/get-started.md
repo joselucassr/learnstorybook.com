@@ -1,6 +1,6 @@
 ---
 title: 'Tutorial de Storybook para Svelte'
-tocTitle: 'Começado'
+tocTitle: 'Começando'
 description: 'Configure o Storybook em seu ambiente de desenvolvimento'
 ---
 
